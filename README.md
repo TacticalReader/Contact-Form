@@ -144,9 +144,7 @@ As a web developer, if you're open to contributions to your project, it's great 
 10. **Licensing:**
     - Clearly define the project's licensing terms. Make sure contributors are aware of and agree to the project's license before submitting any contributions.
 
-11.
-
- **Be Inclusive and Respectful:**
+11. **Be Inclusive and Respectful:**
     - Foster a positive and inclusive community. Be respectful and appreciative of contributions, regardless of their size. Create a welcoming environment for contributors of all levels.
 
 12. **Acknowledgment:**
