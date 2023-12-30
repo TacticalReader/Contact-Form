@@ -156,4 +156,35 @@ As a web developer, if you're open to contributions to your project, it's great 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+
+## Credits
+
+### Fonts
+- [Poppins](https://fonts.google.com/specimen/Poppins) - Used for the project's typography.
+
+### Icon Set
+- [FontAwesome](https://fontawesome.com) - Used for social media icons.
+
+### Development Tools
+- [Node.js](https://nodejs.org) - Used for server-side JavaScript.
+- [Express](https://expressjs.com) - Web framework for Node.js.
+
+### Design Inspiration
+- [Dribbble](https://dribbble.com) - Inspired the design and layout of the contact form.
+
+### Color Palette
+- [Coolors](https://coolors.co) - Used for generating the color scheme.
+
+### Version Control
+- [Git](https://git-scm.com) - Used for version control.
+
+### Text Editor
+- [Visual Studio Code](https://code.visualstudio.com) - Used as the primary code editor.
+
+### Collaboration
+- [GitHub](https://github.com) - Platform for hosting and collaborating on the project.
+
+...
+
+
 ---
